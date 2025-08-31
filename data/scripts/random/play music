@@ -1,0 +1,8 @@
+// this is a part of code to play music
+// assuming music is in assets/music/
+FlxG.sound.playMusic(assets/music/song_ogg)
+// I think thats how you do it
+FlxG.sound.music.onComplete = function()
+    a function goes here
+
+// im pretty sure thats how you do it

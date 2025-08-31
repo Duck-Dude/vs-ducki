@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "lse",
+	"difficulties": [
+		"REGULAR"
+	],
+	"customValues": {},
+	"color": -7376387,
+	"name": "daw wars",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "DAW Wars (Eurobeat Mix)",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 188
+}

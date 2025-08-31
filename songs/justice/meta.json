@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"DUCK"
+	],
+	"icon": "duck",
+	"parsedColor": -7179779,
+	"coopAllowed": false,
+	"name": "justice",
+	"color": "#9271FD",
+	"customValues": {},
+	"stepsPerBeat": 4,
+	"displayName": "Hammer of Justice",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 160
+}

@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"REGULAR"
+	],
+	"customValues": {},
+	"color": -7376387,
+	"name": "liquated",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Liquated",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 140
+}

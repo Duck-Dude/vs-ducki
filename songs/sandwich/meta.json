@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"REGULAR"
+	],
+	"icon": "duck",
+	"parsedColor": -1,
+	"coopAllowed": false,
+	"name": "sandwich",
+	"color": "#FFFFFF",
+	"stepsPerBeat": 4,
+	"displayName": "Sandwiched",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 144
+}

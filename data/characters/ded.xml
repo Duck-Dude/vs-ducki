@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character flipX="true" isPlayer="true" color="#000000" holdTime="-1" imagePath="ded.png">
+	<anim name="BF dies" anim="BF dies"/>
+	<anim name="BF Dead Loop" anim="BF Dead Loop" loop="true"/>
+</character>

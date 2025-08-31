@@ -1,0 +1,16 @@
+{
+	"composer": "P.GOD",
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"DUCK"
+	],
+	"icon": "shadow taeyai",
+	"name": "virus",
+	"coopAllowed": true,
+	"color": -16777216,
+	"stepsPerBeat": 4,
+	"displayName": "Virus",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 190
+}

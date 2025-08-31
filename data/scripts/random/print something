@@ -1,0 +1,2 @@
+// this is for printing stuff in the logs
+trace("your thing here btw")

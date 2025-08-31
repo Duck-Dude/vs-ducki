@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Test Crash",
+            "type": "String",
+            "defaultValue": "1"
+        }
+    ]
+}
